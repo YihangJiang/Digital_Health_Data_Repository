@@ -48,8 +48,8 @@ We welcome contributions to the DHDR! If your data is too large to upload here, 
 |[PPG-DaLiA](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/tree/main/Dataset_PPG-DaLiA)|This multimodal dataset features physiological and motion data, recorded from both a wrist- and a chest-worn device, of 15 subjects while performing a wide range of activities under close to real-life conditions.|
 |[WristPPGDuringExercise](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/tree/main/Dataset_WristPPGDuringExercise)|This database contains wrist PPGs recorded during walking, running and bike riding. Simultaneous motion estimates and A reference chest ECG are included as well.|
 
-## Extra list of PPG datasets
-| https://peterhcharlton.github.io/post/ppg_datasets/ |
+### Extra list of PPG datasets
+https://peterhcharlton.github.io/post/ppg_datasets/
 
 ### COVID19
 | Dataset | Description |
